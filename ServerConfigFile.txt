@@ -1,0 +1,11 @@
+{
+    "deviceName": "PackManDevice",
+    "mqttHostName": "sefl.com.ua",
+    "mqttPort": 8110,
+    "mqttUsername": "test1234",
+    "mqttPassword": "test1234",
+    "inputTopicName": "in",
+    "outputTopicName": "out",
+    "serverName": "server",
+    "placementName": "gb"
+}
